@@ -1,7 +1,7 @@
 name: yangmmsg
 favicon: null
-layout_spectrum: 0.3020584536716342
-typography_spectrum: 0.4613902273122221
+layout_spectrum: 1
+typography_spectrum: 0.36505
 cta:
   domain: null
   bucket: null
